@@ -1,32 +1,32 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Coffeebone",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
+    role: "커피본의 노션 블로그.",
+    bio: "👋 안녕하세요! 저는 열정적인 작가이자 독자인 ‘커피본’입니다. 호기심 많은 저는 코딩, 통계, 투자 등을 독학하고 있으며, 문학, 과학, 철학 등 다양한 주제를 탐구하는 것을 좋아합니다. 생물학분야 전공으로 대학을 졸업한 후 국립연구기관에서 1년간 연구원으로 일했으며, 현재 벤처 창업을 준비 중입니다. 이 블로그에서는 제가 관심 있는 분야와 배운 점들, 그리고 다양한 시각을 함께 나누고자 합니다. 재미있게 읽어주세요! 😊",
+    email: "coff33b1@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Coffeebone`,
+      href: "https://github.com/Coffeebone/Coffeebone-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Coffeebone",
+    description: "어서오세요!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  link: "https://coffeebone.vercel.app",
+  since: 2025, // If leave this empty, current year will be used.
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
