@@ -6,8 +6,8 @@ const CONFIG = {
     role: "커피본의 노션 블로그.",
     bio: "👋 안녕하세요! 저는 열정적인 작가이자 독자인 ‘커피본’입니다. 호기심 많은 저는 코딩, 통계, 투자 등을 독학하고 있으며, 문학, 과학, 철학 등 다양한 주제를 탐구하는 것을 좋아합니다. 생물학분야 전공으로 대학을 졸업한 후 국립연구기관에서 1년간 연구원으로 일했으며, 현재 벤처 창업을 준비 중입니다. 이 블로그에서는 제가 관심 있는 분야와 배운 점들, 그리고 다양한 시각을 함께 나누고자 합니다. 재미있게 읽어주세요! 😊",
     email: "coff33b1@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "Coffeebone",
+    github: "Coffeebone",
     instagram: "",
   },
   projects: [
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "Coffeebone",
     description: "어서오세요!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
